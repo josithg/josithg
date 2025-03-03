@@ -1,4 +1,4 @@
-# Listen here you little Sh**
+# Listen here you little S***
 ### Im a student from electronics domain intrested on Custom roms , Mods , MicroProcessors & Microcontrollers , [YAAP](https://github.com/YAAP) . I was a member of the Samsung developer and modding community until February 2025 under the username egg_less_omelette_
 
 # Tech Stack:
