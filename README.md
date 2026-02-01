@@ -25,7 +25,7 @@
 ### social media presence / contact
 [![portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg)](https://josithg.github.io/main/)
 [![gmail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg)](mailto:josithg02@gmail.com)
-[![telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](t.me/josithg)
+[![telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/josithg)
 ![reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit1.svg)
 ![discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)
 ---
