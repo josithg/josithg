@@ -29,4 +29,4 @@
 ![reddit](https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit1.svg)
 ![discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)
 ---
-<img src="https://raw.githubusercontent.com/SyntaxSpin/SyntaxSpin/output/snake.svg" alt="Snake animation" />
+
