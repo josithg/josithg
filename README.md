@@ -12,7 +12,6 @@
 ![Debian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg)
 ![Android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg)
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
-![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)
 ![Golang](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg)
 ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
 ![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg)
