@@ -7,9 +7,6 @@
 ---
 ### tools and technologies
 ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg)
-![Arch](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg)
-![Fedora](https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora1.svg)
-![Debian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg)
 ![Android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg)
 ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg)
 ![Golang](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg)
