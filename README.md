@@ -1,9 +1,4 @@
-### developer forum presence 
-- <> archlinux forum  (2020 - Present) </>
-- <> fedora discussions  (2022 - Present) </>
-- <> debian user forum  (2023 - Present) </> 
-- <> xda forum  (2023 - Present) </>
-- <> samsung opensource developer & modding community  (June 2023 - August 2024)  </>
+
 ---
 ### tools and technologies
 ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg)
